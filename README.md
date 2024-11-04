@@ -13,7 +13,7 @@ A simple and intuitive stopwatch built using JavaScript, HTML, and CSS. This pro
 
 ## Live Demo
 
-Check out the live demo here: [Live Demo](#) (insert your live demo link).
+Check out the live demo here: [Live Demo]https://github.com/mi-repos/stopwatch
 
 ## Getting Started
 
